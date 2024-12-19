@@ -158,7 +158,7 @@ if (selectedMovie.rating > 8) {
 console.log('Opdracht 4b:');
 if (selectedMovie.rating > 8) {
   console.log('Uitstekende film!!');
-} else if (selectedMovie.rating <= 8 && selectedMovie.rating > 6.5) {
+} else if (selectedMovie.rating > 6.5) {
   console.log('Goede film!');
 } else {
   console.log('Matige film');
